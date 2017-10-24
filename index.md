@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "UCL Department of Political Science"
+title: "Departmental Research Seminar"
 ---
 
 <div class="tiles">
