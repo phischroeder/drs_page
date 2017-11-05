@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title: Calendar
+- title: Seminar Calendar
   url: https://github.com/mmistakes/skinny-bones-jekyll
   excerpt:
   image:
+  
+- title: Other Events
+  url: https://github.com/mmistakes/skinny-bones-jekyll
