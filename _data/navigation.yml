@@ -1,7 +1,7 @@
 # Site navigation links
 
 - title: Seminar Calendar
-  url: https://github.com/mmistakes/skinny-bones-jekyll
+  url: /calendar/
   excerpt:
   image:
   
