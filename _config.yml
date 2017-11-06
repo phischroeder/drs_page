@@ -38,8 +38,9 @@ owner:
 
 
 include:
-  - .htaccess
+  
 exclude:
+  - .htaccess
   - "*.less"
   - "*.sublime-project"
   - "*.sublime-workspace"
